@@ -1,4 +1,3 @@
-<br>
 # Curl library build for dockzen-launcher
 > Dockzen-launcher uses curl library to communicate with docker daemon  
 > Refer the build options to make static libraries  
