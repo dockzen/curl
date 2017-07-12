@@ -2,6 +2,11 @@
 > Dockzen-launcher uses curl library to communicate with docker daemon  
 > Refer the build options to make static libraries  
 > Souce is based on Ver.7.54.1  
+
+## source
+<pre>
+$ git clone -b curl-7_54_1-dockzen https://github.com/dockzen/curl.git
+</pre>
 ## for arm (Cross Build - static library)  
 <pre>
 curl$ ./buildconf
